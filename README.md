@@ -96,5 +96,5 @@ The **Database Layer** is the **core engine**, ensuring consistency and supporti
 
 ## 📌 References
 - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Database System Concepts* (7th ed.), McGraw Hill.  
-- Ramakrishnan, R., & Gehrke, J. (2003). *Database Management Systems* (3rd ed.), McGraw Hill.  
+- Ramakrishnan, R., & Gehrke, J. (2003). *Database Management Systems* (3rd ed.), McGraw Hill. 
 - Online Learning Platforms: Coursera, Preply, Udemy for feature inspiration.  
