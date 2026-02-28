@@ -76,13 +76,6 @@ The **Database Layer** is the **core engine**, ensuring consistency and supporti
 
 ---
 
-## 📌 Project Outcomes / Deliverables
-- **Functional DBMS Application** with user registration, skill management, session booking, and review functionality.  
-- **Well-Designed Database Schema** with ER diagram and normalized relational tables.  
-- **SQL Scripts & Queries** for creation of tables, joins, stored procedures, and triggers.  
-- **Comprehensive Project Report** covering schema design, ER model, SQL implementation, and test cases.  
-- **Final Presentation & Demonstration** showing live booking, tutoring, and review scenarios.  
-
 ---
 
 ## 📌 Assumptions
